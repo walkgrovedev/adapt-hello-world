@@ -1,0 +1,25 @@
+{
+  "name": "adapt-hello-world",
+  "version": "4.0.0",
+  "framework": ">=5",
+  "homepage": "https://github.com/walkgrovedev/adapt-hello-world.git",
+  "component": "helloWorld",
+  "displayName": "Text",
+  "description": "A simple core contributed text component - with Hello World!",
+  "main": "/js/adapt-hello-world.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPL-3.0",
+  "_release": "4.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v4.0.0",
+    "commit": "ee2952fedacf99c49eb56e093bd77647c8b15b99"
+  },
+  "_source": "git@github.com:walkgrovedev/adapt-hello-world.git",
+  "_target": "4.0.0",
+  "_originalSource": "adapt-hello-world",
+  "_direct": true
+}
